@@ -71,6 +71,7 @@ int main(){
     pila.pop();
     if(!pila.empty())cout<<",";
   }
+  cout<<pila.empty()<<endl;
   
   
 }
